@@ -3,6 +3,7 @@
 ## Playbook
 * Write the code
 * Open terminal
+*     npm install mongoose
 *     node server.js
 * Once the DB is connected, open POSTMAN
 *     http://localhost:3000/students
